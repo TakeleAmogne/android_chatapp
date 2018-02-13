@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "628293972530",
+    "firebase_url": "https://pepechat-alhudaghifari.firebaseio.com",
+    "project_id": "pepechat-alhudaghifari",
+    "storage_bucket": "pepechat-alhudaghifari.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628293972530:android:ad50b0b0d1d58da2",
+        "android_client_info": {
+          "package_name": "com.alhudaghifari.pepechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628293972530-02gv31tcbhmko5etc581qpua7vk0008d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alhudaghifari.pepechat",
+            "certificate_hash": "e794debf129c8915e2efcf32b04699268c6d838d"
+          }
+        },
+        {
+          "client_id": "628293972530-9buis9jc7iid1ivf5e99d92srrck5sl9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5nTHx4GnlpTvH0K28-WLwiOCyGHpLimw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628293972530-9buis9jc7iid1ivf5e99d92srrck5sl9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
